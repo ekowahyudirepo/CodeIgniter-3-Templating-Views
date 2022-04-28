@@ -3,6 +3,13 @@
 <?php echo $this->load->view('layouts/auth/header', NULL, TRUE); ?>
 
 <!-- Custom Assets CSS Disini-->
+<!-- <style>
+	.bg-login-image {
+		background: url('https://distyindonesia.com/elearning/pluginfile.php/95/course/overviewfiles/pemrograman%20web%20mvc.png') !important;
+		background-position: center !important;
+		background-size: cover !important;
+	}
+</style> -->
 
 </head>
 
